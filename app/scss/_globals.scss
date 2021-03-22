@@ -18,11 +18,12 @@ body{
 
 a, a:visited, a:hover{
     text-decoration: none;
+    color: $grayishBlue;
 }
 
 // flexbox
 
-.flex{
+.flex{ 
     display: flex;
 
     &-jc-sb{
