@@ -2,6 +2,8 @@
 
     // Hamburger open styles
     &.open {
+        // position: relative;
+        // z-index: 1;
 
         .header__toggle{
             >span:first-child {
